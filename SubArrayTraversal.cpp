@@ -2,8 +2,6 @@
 
 Find the number of sub arrays with equal number of even and odd numbers
 
-
-
 */
 #include <bits/stdc++.h>
 
